@@ -19,9 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrashantJadhavRise&limit=5&theme=darcula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PrashantJadhavRise&icon=5&color=8)](https://visitcount.itsvg.in)
 
